@@ -1,0 +1,55 @@
+export const PROJECTS = [
+  {
+    id: "hytra",
+    title: "Hytra",
+    category: "Discord All-in-One Bot",
+    subtitle: "Moderation, Utilities, Tickets & Premium Dashboard",
+    description: "An all-in-one Discord bot project focused on moderation, utilities, invites, giveaways, tickets, premium access, and dashboard management.",
+    tech: ["Python", "Discord.py", "React", "JSON"],
+    accentColor: "#A855F7",
+    secondaryColor: "#EC4899",
+    visualType: "dashboard",
+    features: ["Moderation and utility commands", "Ticket and premium systems", "Interactive Discord components", "Web dashboard management"],
+    github: "https://github.com/Rawmilk3017"
+  },
+  {
+    id: "deathbound",
+    title: "Deathbound SMP",
+    category: "Minecraft Community Website",
+    subtitle: "SMP Information, Owners, Posts & AI Assistant",
+    description: "A dedicated website concept for Deathbound SMP with community information and an AI assistant experience.",
+    tech: ["React", "JavaScript", "Groq", "CSS"],
+    accentColor: "#EC4899",
+    secondaryColor: "#F43F5E",
+    visualType: "network",
+    features: ["SMP information pages", "Owner and community sections", "Recent posts", "AI assistant integration"],
+    github: "https://github.com/Rawmilk3017",
+    website: "https://rawmilk3017.net"
+  },
+  {
+    id: "minecraft-services",
+    title: "Minecraft Services",
+    category: "Discord Service Platform",
+    subtitle: "Orders, Queues, Farming, Mining & Builder Workflows",
+    description: "A Discord-based Minecraft service workflow for orders, queues, payment confirmation, farming/mining services, and builder support.",
+    tech: ["Python", "Discord.py", "Minecraft", "JSON"],
+    accentColor: "#F43F5E",
+    secondaryColor: "#A855F7",
+    visualType: "dashboard",
+    features: ["Order and queue management", "Payment confirmation workflow", "Farming and mining services", "Builder job support"],
+    github: "https://github.com/Rawmilk3017"
+  },
+  {
+    id: "build-a-bot",
+    title: "Build-a-Bot Platform",
+    category: "Bot Development Service",
+    subtitle: "Ticket Intake, Packages, Hosting & Customer Management",
+    description: "A bot-building service concept designed around customer tickets, feature packages, hosting, and a future dashboard.",
+    tech: ["Discord", "Python", "React", "Automation"],
+    accentColor: "#F5D0FE",
+    secondaryColor: "#A855F7",
+    visualType: "matrix",
+    features: ["Customer ticket intake", "Feature packages", "Hosting options", "Dashboard planning"],
+    github: "https://github.com/Rawmilk3017"
+  }
+];
